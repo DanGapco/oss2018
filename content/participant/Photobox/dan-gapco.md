@@ -1,7 +1,7 @@
 ---
 title           : Dan Gapco
 type            : participant
-job_title       :
+job_title       : Incident Response SOC Analyst
 company         : Photobox GS
 travel_from     :
 image           :
